@@ -13,7 +13,7 @@ int main ()
             int more=(i> count-i-1)? i:count-i-1;
             if (j <= less || j >= more)
             {
-                printf("*");
+                printf("* ");
             }
             else
             {
